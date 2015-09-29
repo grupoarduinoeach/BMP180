@@ -1,0 +1,8 @@
+Este projeto é um medidor de gás metano. A idéia é criar um alarme que indica quando o nível de metano no local está elevado.
+Para criar o projeto foi necessário um sensor de matano MQ-4. 
+
+As especificações do sensor estão presentes no datasheet abaixo:
+https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-4.pdf
+
+Abaixo está um pequeno guia de utilização do sensor:
+http://playground.arduino.cc/Main/MQGasSensors
